@@ -1,0 +1,7 @@
+name: CosmicMining
+version: '${project.version}'
+main: cosmicmining.cosmicmining.CosmicMining
+api-version: 1.17
+authors: [ Zlurpy ]
+description: A replica of the cosmic prisons mining system.
+website: starcreations.gg
